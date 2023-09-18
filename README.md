@@ -2,7 +2,7 @@
 play simon!
 
 # How to play
- ![gameplay](./simon%20game.png)
+ ![gameplay](_images/simon%20game.png)
 ### Gameplay:
 Simon will start by showing you a pattern of colors and sounds. Pay close attention to the sequence.
 
